@@ -1,6 +1,6 @@
 {
-  "name": "todo-list",
-  "homepage": "https://A26arpitaAgarwal.github.io/React-todo-list",
+  "name": "task_flow",
+  "homepage": "https://github.com/A26arpitaAgarwal/TaskFlow.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -13,6 +13,11 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+
+  "devDependencies": {
+    "gh-pages": "^3.2.3" 
+  },
+
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
