@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/A26arpitaAgarwal/TaskFlow.github.io/static/css/main.8ce73d4b.css",
+    "main.js": "/A26arpitaAgarwal/TaskFlow.github.io/static/js/main.c7682be7.js",
+    "index.html": "/A26arpitaAgarwal/TaskFlow.github.io/index.html",
+    "main.8ce73d4b.css.map": "/A26arpitaAgarwal/TaskFlow.github.io/static/css/main.8ce73d4b.css.map",
+    "main.c7682be7.js.map": "/A26arpitaAgarwal/TaskFlow.github.io/static/js/main.c7682be7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ce73d4b.css",
+    "static/js/main.c7682be7.js"
+  ]
+}
